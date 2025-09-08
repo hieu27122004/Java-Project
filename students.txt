@@ -1,0 +1,2 @@
+S,27,Hiếu,Trần,2005-01-04,hieu@gmail.com,0123456789,KA 9,DN,DN,VietNam
+E,27,C001,9.0,100,ENROLLED
